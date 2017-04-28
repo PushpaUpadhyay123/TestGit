@@ -1,8 +1,11 @@
 Hello Git
 
 Change1
+<<<<<<< HEAD
 
 
 Change2		
 
 change3
+=======
+>>>>>>> parent of 0cf3525...  change2 in file 1
